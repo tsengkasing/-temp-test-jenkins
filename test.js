@@ -5,6 +5,7 @@
 const GPA = require('./GPA')
 console.log(123)
 console.log('commit1')
+console.log('commit...')
 GPA({ token1: 'abc', token2: 'abc' }, (obj) => {
   console.log(obj)
 })
