@@ -13,5 +13,5 @@ GPA({ token1: 'abc', token2: 'abc' }, (obj) => {
 })
 console.log('commit 1')
 console.log('commit 2')
-
+console.log('commit _2')
 console.log('commit 666')
